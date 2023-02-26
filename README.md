@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="assets\main.png" height="700" width="5000">
- <h1>👋🏼 Hi there! </h1>
+  <img src="assets\main.png" height="500" width="1200">
+ <hr><hr>
+<h1>👋🏼 Hi there! </h1>
   <h3>👨‍💻 Welcome to my profile!</h3>
   <p>👨‍🎓 My name is Mahmoud Yaser Salman, and I am a Junior Systems and Biomedical Engineering Student at Cairo University, with a passion for software engineering and data science.</p>
   <p>💼 Currently, I am a Back-end Developer and looking for an internship to further enhance my skills in this field.</p>
   <p>🌍 I am based in Cairo, Egypt, and I love to collaborate on open-source projects related to data science and back-end development.</p>
-  <br>
+<hr><hr>
   <h3>👀 Here's a glimpse of my profile:</h3>
 
 ## Skills
@@ -14,6 +15,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<hr>
 
 ### Data Science
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -22,6 +24,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<hr>
 
 ### Back-End Development
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -29,13 +32,17 @@
 ![MS Access](https://img.shields.io/badge/MS%20Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+<hr>
 
 ### Front-End Web Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+<hr>
+
 ### Desktop GUI
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=flat-square&logo=java&logoColor=white)
+<hr>
 
 ### Industry-Based
 
@@ -45,6 +52,22 @@
 ![SOLID](https://img.shields.io/badge/-SOLID-blue)
 ![Medical Imaging](https://img.shields.io/badge/-Medical%20Imaging-inactive)
 ![REST API](https://img.icons8.com/fluency/50/000000/api-settings.png)
+<hr>
+<hr>
+
+## Technical Projects
+<ul style="text-align: left">
+<li>🖥️ My technical projects cover a diverse range of subjects including:</li>
+<ul style="text-align: left">
+  <li>Software Engineering</li>
+  <li>Data Science</li>
+  <li>Recommending Systems</li>
+  <li>Bioinformatics</li>
+</ul>
+<li style="text-align: left">🚀 By applying industry-based practices like DevOps, SOLID, Clean Code, and Optimization through Data Structures & Algorithms, my projects showcase my proficiency and exploration.</li>
+</ul>
+
+<hr><hr>
 
 ## GitHub Stats
 
@@ -57,22 +80,11 @@
     
 </div>
 
-
-
-  <ul>
-    <li>🖥️ My technical projects cover a diverse range of subjects including:</li>
-    <ul>
-      <li>Software Engineering</li>
-      <li>Data Science</li>
-      <li>Recommending Systems</li>
-      <li>Bioinformatics</li>
-    </ul>
-    <li>🚀 By applying industry-based practices like DevOps, SOLID, Clean Code, and Optimization through Data Structures & Algorithms, my projects showcase my proficiency and exploration.</li>
-  </ul>
-  <br>
   <h3>👯 Let's connect and work together on some exciting projects!</h3>
   <a href="mailto:mahmoud.salman01@eng-st.cu.edu.eg"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/mahmoud1yaser/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <br><br>
+<hr>
   <p>⚡ Fun fact: I'm a potter-head and I love Disney! ⚡</p>
+<hr>
 </div>
