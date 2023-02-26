@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="asstes\main.png">
+  <img src="assets\main.png">
  <h1>👋🏼 Hi there! </h1>
   <h3>👨‍💻 Welcome to my profile!</h3>
   <p>👨‍🎓 My name is Mahmoud Yaser Salman, and I am a Junior Systems and Biomedical Engineering Student at Cairo University, with a passion for software engineering and data science.</p>
