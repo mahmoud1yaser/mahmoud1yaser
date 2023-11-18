@@ -2,15 +2,22 @@
   <img src="assets\main.png" height="500" width="1200">
 <h1>👋🏼 Hi I'm Mahmoud Salman! </h1>
   <h3>👯 Let's connect and work together on some exciting projects!</h3>
-  <a href="mailto:mahmoud.salman01@eng-st.cu.edu.eg"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:myaser@ieee.org"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/mahmoud1yaser/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <br>
 </div>
 <hr>
-  <p>👨‍🎓 I am a Junior Systems and Biomedical Engineering Student at Cairo University, with a passion for Data Science and Software Engineering.</p>
-  <p>💼 Currently, I am looking for a Data Scientist Internship to further enhance my skills in this field.</p>
-  <p>🌍 I am based in Cairo, Egypt, and I love to collaborate on open-source projects related to data science and back-end development.</p>
-  <p>⚡ Fun fact: I'm potter-head!</p>
+  <p> 🎓 Senior Biomedical Engineering Student at Cairo University | 💡 ML, CV, NLP | 🌐 Seeking AI Master Fellowship </p>
+
+  <p> 🚀 Pushing boundaries in medical imaging with Generative AI | 🏆 Award-winning projects </p>
+
+  <p> 💼 Chairman of IEEE EMBS CUSB | 🔧 Led autonomous perception team at Cairo University Racing Team </p>
+  
+  <p>🌍 I am based in Cairo, Egypt, and I love to research and explore boundaries in AI, Computer Vision, and Neuroscience.</p>
+  
+  <p>⚡ Fun fact: I'm a potter-head!</p>
+
+  <p> 📩 myaser@ieee.org | 🤝 Let's connect and explore AI innovation! </p>
 <hr>
   <h3>👀 Here's a glimpse of my profile:</h3>
 
