@@ -17,7 +17,7 @@
   
   <p>⚡ Fun fact: I'm a potter-head!</p>
 
-  <p> 📩 myaser@ieee.org | </p> <a src="https://myaser.vercel.app"> myaser.vercel.app </a> <p> | 🤝 Let's connect and explore AI innovation! </p>
+  📩 myaser@ieee.org | <a src="https://myaser.vercel.app"> myaser.vercel.app </a> <p> | 🤝 Let's connect and explore AI innovation!
 <hr>
   <h3>👀 Here's a glimpse of my profile:</h3>
 
