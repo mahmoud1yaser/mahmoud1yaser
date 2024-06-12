@@ -4,6 +4,7 @@
   <h3>👯 Let's connect and work together on some exciting projects!</h3>
   <a href="mailto:myaser@ieee.org"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/mahmoud1yaser/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://myaser.vercel.app"><img src="https://img.shields.io/badge/my_website-%23007ACC.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="My Website"></a>
   <br>
 </div>
 <hr>
@@ -16,8 +17,8 @@
   <p>🌍 I am based in Cairo, Egypt, and I love to research and explore boundaries in AI, Computer Vision, and Neuroimaging.</p>
   
   <p>⚡ Fun fact: I'm a potter-head!</p>
-
-  📩 myaser@ieee.org | <a src="https://myaser.vercel.app"> myaser.vercel.app </a> <p> | 🤝 Let's connect and explore AI innovation!
+  
+  <p> 📩 myaser@ieee.org | 🤝 Let's connect and explore AI innovation! </p>
 <hr>
   <h3>👀 Here's a glimpse of my profile:</h3>
 
