@@ -7,17 +7,17 @@
   <br>
 </div>
 <hr>
-  <p> 🎓 Senior Biomedical Engineering Student at Cairo University | 💡 ML, CV, NLP | 🌐 Seeking AI Master Fellowship </p>
+  <p> 🎓 Fresh AI Engineer | 💡 ML, CV, NLP | 🌐 Seeking AI Opportunity </p>
 
-  <p> 🚀 Pushing boundaries in medical imaging with Generative AI | 🏆 Award-winning projects </p>
+  <p> 🚀 Pushing boundaries in medical imaging with Deep Learning | 🏆 Award-winning projects </p>
 
   <p> 💼 Chairman of IEEE EMBS CUSB | 🔧 Led autonomous perception team at Cairo University Racing Team </p>
   
-  <p>🌍 I am based in Cairo, Egypt, and I love to research and explore boundaries in AI, Computer Vision, and Neuroscience.</p>
+  <p>🌍 I am based in Cairo, Egypt, and I love to research and explore boundaries in AI, Computer Vision, and Neuroimaging.</p>
   
   <p>⚡ Fun fact: I'm a potter-head!</p>
 
-  <p> 📩 myaser@ieee.org | 🤝 Let's connect and explore AI innovation! </p>
+  <p> 📩 myaser@ieee.org | [myaser.vercel.app](https://myaser.vercel.app) | 🤝 Let's connect and explore AI innovation! </p>
 <hr>
   <h3>👀 Here's a glimpse of my profile:</h3>
 
