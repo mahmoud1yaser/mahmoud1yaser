@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets\main.png" height="500" width="1200">
-<h1>👋🏼 Hi I'm Mahmoud Salman! </h1>
+<h1>👋🏼 Hi I'm Mahmoud Yaser Salman! </h1>
   <h3>👯 Let's connect and work together on some exciting projects!</h3>
   <a href="mailto:myaser@ieee.org"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/mahmoud1yaser/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -18,8 +18,8 @@
   
   <p> 📩 myaser@ieee.org | 🤝 Let's connect and explore AI innovation! </p>
 <hr>
-  <h3>👀 Here's a glimpse of my profile:</h3>
-  <p>See my resume at <a href="https://myaser.vercel.app/about">My Resume</a></p>
+  <h3>👀 See my resume at:</h3>
+  <p><a href="https://myaser.vercel.app/about">My Resume</a></p>
 <hr>
 
 ## GitHub Stats
