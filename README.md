@@ -5,7 +5,8 @@
     <p>
         <a href="mailto:myaser@ieee.org">Email</a> | 
         <a href="https://www.linkedin.com">LinkedIn</a> | 
-        <a href="https://myaser.vercel.app">My Website</a>
+        <a href="https://myaser.vercel.app">My Website</a> |
+        <a href="https://myaser.vercel.app/about">My Resume</a>
     </p>
 </div>
     <p>🎓 Fresh AI Engineer | 💡 Expertise in ML, CV, NLP | 🌐 Seeking AI Opportunities</p>
@@ -13,7 +14,6 @@
     <p>🌍 Based in Cairo, Egypt, I'm passionate about researching and exploring the boundaries of AI, Computer Vision, and Neuroimaging.</p>
     <p>⚡ Fun fact: I'm a Potterhead!</p>
     <p>📩 Reach out to me at <a href="mailto:myaser@ieee.org">myaser@ieee.org</a> | 🤝 Let's connect and explore new AI frontiers!</p>
-    <p>👀 See my resume at: <a href="https://myaser.vercel.app/about">My Resume</a></p>
 <hr>
 
 ## GitHub Stats
