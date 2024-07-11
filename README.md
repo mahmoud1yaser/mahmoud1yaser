@@ -7,6 +7,7 @@
         <a href="https://www.linkedin.com">LinkedIn</a> | 
         <a href="https://myaser.vercel.app">My Website</a>
     </p>
+</div>
     <p>🎓 Fresh AI Engineer | 💡 Expertise in ML, CV, NLP | 🌐 Seeking AI Opportunities</p>
     <p>🚀 Revolutionizing medical imaging with Deep Learning | 🏆 Award-winning projects | 💼 Chairman of IEEE EMBS CUSB</p>
     <p>🌍 Based in Cairo, Egypt, I'm passionate about researching and exploring the boundaries of AI, Computer Vision, and Neuroimaging.</p>
