@@ -5,8 +5,8 @@
     <p>
         <a href="mailto:myaser@ieee.org">Email</a> | 
         <a href="https://www.linkedin.com">LinkedIn</a> | 
-        <a href="https://myaser.vercel.app">My Website</a> |
-        <a href="https://myaser.vercel.app/about">My Resume</a>
+        <a href="https://myaser.vercel.app">Website</a> |
+        <a href="https://myaser.vercel.app/about">Resume</a>
     </p>
 </div>
     <p>🎓 Fresh AI Engineer | 💡 Expertise in ML, CV, NLP | 🌐 Seeking AI Opportunities</p>
