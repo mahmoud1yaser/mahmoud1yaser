@@ -13,7 +13,6 @@
     <p>🚀 Revolutionizing medical imaging with Deep Learning | 🏆 Award-winning projects | 💼 Chairman of IEEE EMBS CUSB</p>
     <p>🌍 Based in Cairo, Egypt, I'm passionate about researching and exploring the boundaries of AI, Computer Vision, and Neuroimaging.</p>
     <p>⚡ Fun fact: I'm a Potterhead!</p>
-    <p>📩 Reach out to me at <a href="mailto:myaser@ieee.org">myaser@ieee.org</a> | 🤝 Let's connect and explore new AI frontiers!</p>
 <hr>
 
 ## GitHub Stats
