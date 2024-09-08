@@ -4,7 +4,7 @@
     <p>👯 Let's connect and collaborate on exciting projects!</p>
     <p>
         <a href="mailto:myaser@ieee.org">Email</a> | 
-        <a href="https://www.linkedin.com">LinkedIn</a> | 
+        <a href="https://www.linkedin.com/in/mahmoud1yaser/">LinkedIn</a> | 
         <a href="https://myaser.vercel.app">Website</a> |
         <a href="https://myaser.vercel.app/about">Resume</a>
     </p>
