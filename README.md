@@ -9,10 +9,12 @@
         <a href="https://myaser.vercel.app/about">Resume</a>
     </p>
 </div>
-    <p>🎓 Fresh AI Engineer | 💡 Expertise in ML, CV, NLP | 🌐 Seeking AI Opportunities</p>
-    <p>🚀 Revolutionizing medical imaging with Deep Learning | 🏆 Award-winning projects | 💼 Chairman of IEEE EMBS CUSB</p>
-    <p>🌍 Based in Cairo, Egypt, I'm passionate about researching and exploring the boundaries of AI, Computer Vision, and Neuroimaging.</p>
+    <p>🎓 MESc Biomedical Engineering Student at Western University | 💡 Specializing in ML for Health and Biomedical Sciences | Holding BSc Biomedical Engineering from Cairo University</p>
+    <p>🚀 Researching Brain Imaging with expertise in Image Segmentation, Motion Correction, and Active Learning using Deep Learning</p>
+    <p>🏆 Award-winning projects | 💼 Ex-Chair of IEEE EMBS CUSB | Diverse AI background across multiple domains</p>
+    <p>🌍 Based in London, Ontario, passionate about advancing healthcare through AI, Computer Vision, and Neuroimaging.</p>
     <p>⚡ Fun fact: I'm a Potterhead!</p>
+
 <hr>
 
 ## GitHub Stats
