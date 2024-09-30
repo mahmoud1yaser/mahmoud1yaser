@@ -3,7 +3,7 @@
 <h1>👋🏼 Hi, I'm Mahmoud Yaser Salman!</h1>
     <p>👯 Let's connect and collaborate on exciting projects!</p>
     <p>
-        <a href="mailto:myaser@ieee.org">Email</a> | 
+        <a href="mailto:myasersalman01@gmail.com">Email</a> | 
         <a href="https://www.linkedin.com/in/mahmoud1yaser/">LinkedIn</a> | 
         <a href="https://myaser.vercel.app">Website</a> |
         <a href="https://myaser.vercel.app/about">Resume</a>
